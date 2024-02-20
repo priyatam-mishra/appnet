@@ -1,0 +1,190 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --w: 200px;
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))) rgb(var(--background-start-rgb));
+
+  height: 100vh;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+.c1 {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background: #131921;
+  color: whitesmoke;
+  padding: 7px 0;
+
+  .imf {
+    width: 160px;
+    height: 70px;
+    background: url(../app/assets/image/amazonlog1.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 10px;
+  }
+
+  .imf:hover {
+    outline: 1.5px solid #fff;
+    border-radius: 15px;
+  }
+
+  .text1 {
+    padding: 10px 22px;
+
+    h6 {
+      font-size: 15px;
+      font-weight: 400;
+    }
+
+    h5 {
+      font-size: 20px;
+      font-weight: 700;
+    }
+
+    select {
+      background: transparent;
+      font-size: 20px;
+      font-weight: 600;
+      text-transform: capitalize;
+    }
+
+    .ico {
+      background: url(../app/assets/image/pin.png);
+      background-size: cover;
+      transform: translate(-22px, 30px);
+      width: 20px;
+      height: 20px;
+    }
+  }
+
+  .text1:hover {
+    outline: 1.5px solid #fff;
+    border-radius: 15px;
+  }
+
+  .sarbar {
+    background-color: whitesmoke;
+    width: 20%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    overflow: hidden;
+
+    .s2 {
+      input {
+        color: #040606;
+        height: 50px;
+        outline: none;
+        border: none;
+        text-indent: 10px;
+      }
+    }
+
+    .s1 {
+      box-sizing: border-box;
+      padding: 5px;
+      background: #e6e6e6;
+      width: 25%;
+      height: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+      select {
+        text-transform: uppercase;
+        color: #010101;
+        background: transparent;
+      }
+    }
+
+    .s3 {
+      background: #febd69;
+      width: 25%;
+      height: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+      .saricon {
+        width: 20px;
+        height: 20px;
+        background: url(../app/assets/image/search.png);
+        background-size: cover;
+
+      }
+    }
+  }
+
+  .en {
+    padding: 0 0 0 22px;
+    border-radius: 5px;
+
+    .ic {
+      width: 22px;
+      height: 20px;
+      background: url(../app/assets/image/Screenshot\ 2023-11-28\ 104018.png);
+      transform: translate(-20px, 20px);
+    }
+
+    select {
+      text-transform: uppercase;
+      background: transparent;
+    }
+  }
+
+  .en:hover {
+    outline: 1.5px solid #fff;
+  }
+
+  .cart {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    border-radius: 15px;
+
+    .box {
+      background: url(../app/assets/image/shopping-cart_649931.png);
+      background-size: cover;
+      width: 50px;
+      height: 50px;
+      margin: 0 10px;
+    }
+  }
+
+  .cart:hover {
+    outline: 1.5px solid #fff;
+  }
+}
