@@ -1,0 +1,407 @@
+body {
+    background: #d5fbfb;
+}
+
+.ele1 {
+    position: absolute;
+    top: 108px;
+    left: 0;
+    width: 20%;
+    height: 300vh;
+    /* background: red; */
+    display: flex;
+    padding: 10px;
+
+    h6 {
+        font-size: 17px;
+    }
+
+    h4 {
+        font-size: 18px;
+    }
+
+    ul {
+        list-style: none;
+
+        li {
+            text-indent: 8px;
+            font-size: 14.3px;
+
+            input {
+                margin-right: 5px;
+            }
+
+            h6 {
+                font-size: 16px;
+            }
+        }
+    }
+
+    .eli1 {
+        font-size: 20px;
+        color: #239eff;
+
+        span {
+            color: #ff9900;
+            font-size: 20px;
+            font-weight: 900;
+        }
+
+
+    }
+
+    .elea2 {
+        width: 2.5px;
+        height: 295vh;
+        background: #d9d9d9;
+    }
+
+}
+
+.ele2 {
+    position: absolute;
+    top: 108px;
+    right: 0;
+    width: 80%;
+    height: 300vh;
+    /* background: rgb(0, 255, 4); */
+    padding: 10px;
+
+    .eleb1 {
+        width: 100%;
+        height: 60vh;
+        background: url(../assets/image/sahara-desert-sunlight-blue-sky-morocco-africa.jpg);
+        background-size: cover;
+        background-position: center;
+        overflow: hidden;
+
+        .eleba1 {
+            width: 100%;
+            height: 100%;
+            padding: 20px;
+            text-indent: 50px;
+            background: #dabf8db6;
+            display: grid;
+            grid: 50px/auto;
+            gap: 20px;
+
+            span {
+                background: #e30000;
+                color: #ffffff;
+                width: fit-content;
+                height: fit-content;
+                text-indent: 10px;
+                padding: 16px;
+                font-size: 25px;
+                font-weight: 500;
+                margin-left: 40px;
+                border-radius: 15px;
+            }
+        }
+
+
+    }
+
+
+    .eleb2 {
+        text-align: center;
+        width: 100%;
+        height: 45vh;
+        background: #ffffff;
+        display: grid;
+        grid: 200px/auto auto auto auto auto auto;
+        padding: 20px;
+        gap: 10px;
+
+
+
+        .elebb1 {
+            display: grid;
+            grid: 140px/auto;
+            gap: 10px;
+            width: 100%;
+            height: 100%;
+            background: url(../assets/image/sahara-desert-sunlight-blue-sky-morocco-africa.jpg);
+            background-size: cover;
+            background-position: center;
+            padding: 10px 5px;
+            margin: 5px;
+
+            .bb {
+                h4 {
+                    font-size: 17px;
+                    font-weight: 600;
+
+                }
+
+                h6 {
+                    font-size: 12px;
+                }
+            }
+
+            span {
+
+                font-size: 11.5px;
+                font-weight: 500;
+                background: red;
+                padding: 5px;
+                border-radius: 5px;
+                color: #ffffff;
+            }
+        }
+    }
+
+    .bt {
+        background: #bcbaba8a;
+
+        .elebb1 {
+            background: url(../assets/image/pexels-karolina-grabowska-4194842.jpg);
+            background-size: cover;
+            background-position: center;
+            padding: 10px;
+
+
+            span {
+                background: #7ecdae;
+                color: #000000;
+                font-size: 17px;
+            }
+        }
+    }
+
+    .eleb3 {
+        width: 100%;
+        height: 50vh;
+        background: #bcbabaa8;
+        padding: 20px;
+
+        .elebc1 {
+            color: #ffffff;
+            width: 100%;
+            height: 100%;
+            background: #000000;
+            border-radius: 15px;
+            padding: 20px;
+
+            .elebc3 {
+                margin-top: 90px;
+                width: 100%;
+                text-align: center;
+            }
+
+            .elebc2 {
+                display: flex;
+                justify-content: space-between;
+                text-align: center;
+
+            }
+
+            .cc {
+                width: 20%;
+                display: flex;
+                justify-content: space-around;
+
+                h5 {
+                    color: #0698ff;
+                }
+
+            }
+
+        }
+    }
+
+    .eleb4 {
+        background: #014785;
+        width: 70%;
+        color: #ffffff;
+        margin: auto;
+        margin-top: 20px;
+        padding: 10px;
+
+        .elebd2 {
+            h6 {
+                font-size: 10px;
+            }
+        }
+
+        .elebd1 {
+            display: flex;
+            padding: 10px;
+            color: #ffffff;
+
+            .bd1 {
+                width: 20%;
+                height: 100%;
+                border-right: 2px solid #000000;
+            }
+
+            .bd2 {
+                text-indent: 20px;
+            }
+
+            h6 {
+                font-size: 30px;
+                font-weight: 400;
+            }
+
+            h5 {
+                font-size: 40px;
+            }
+
+            h4 {
+                font-size: 60px;
+            }
+        }
+    }
+}
+
+.ele3 {
+    position: absolute;
+    top: 300vh;
+    width: 100%;
+
+    .cc8 {
+        height: 70vh;
+        background: #232f3e;
+
+        .c10 {
+            display: flex;
+            justify-content: center;
+            background: #37475a;
+        }
+
+        .btn-primary {
+            width: 100%;
+            background: transparent;
+            border: none;
+        }
+
+        .c11 {
+            display: flex;
+            justify-content: center;
+            color: #ffffff;
+            padding: 20px;
+
+            ul {
+                margin: 10px;
+                list-style: none;
+
+                li {
+                    font-size: 15px;
+                    color: #a0a4a8;
+
+                }
+
+                h3 {
+                    font-size: 17px;
+
+                }
+            }
+        }
+
+        .c12 {
+            display: flex;
+            justify-content: center;
+
+            .imf {
+                width: 100px;
+                height: 70px;
+                background: url(../assets/image/amazonlog1.png);
+                background-size: contain;
+                background-position: center;
+                background-repeat: no-repeat;
+                padding: 10px;
+            }
+
+            select {
+                height: 30px;
+                background: transparent;
+                color: #ffffff;
+                transform: translateY(16px) translateX(60px);
+            }
+        }
+
+        .c13 {
+
+            color: #ffffff;
+
+            ul {
+                display: grid;
+                grid: 20px/ auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto;
+                list-style: none;
+
+                .le1 {
+                    margin-top: 8px;
+                    transform: translateX(570px);
+                }
+
+            }
+
+
+
+        }
+
+    }
+
+    .cc9 {
+        width: 100%;
+        height: 50vh;
+        background: #131a22;
+        margin-top: 20px;
+        color: #ffffff;
+        padding: 30px;
+
+        ul {
+            list-style: none;
+
+            li {
+                font-size: 15px;
+                color: #989898;
+            }
+        }
+
+        h4 {
+            font-size: 17px;
+        }
+
+        .c14 {
+            width: 80%;
+            margin: auto;
+            display: grid;
+            grid: 90px/ auto auto auto auto;
+        }
+
+        .c15 {
+            width: 80%;
+            margin: auto;
+            display: grid;
+            gap: 110px;
+            grid: 90px/ auto auto auto auto;
+
+        }
+
+        .c17 {
+            text-align: center;
+            margin-top: 10px;
+
+            ul {
+                display: flex;
+                justify-content: center;
+
+                li {
+                    margin: 0 10px;
+                    color: #ffffff;
+                    font-size: 17px;
+                }
+            }
+        }
+
+        .ce7 {
+            transform: translateX(-36px);
+        }
+
+        .ce8 {
+            transform: translateX(5px);
+        }
+    }
+}
