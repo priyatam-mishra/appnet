@@ -52,7 +52,7 @@ body {
 
     .elea2 {
         width: 2.5px;
-        height: 295vh;
+        height: 275vh;
         background: #d9d9d9;
     }
 
@@ -63,8 +63,7 @@ body {
     top: 108px;
     right: 0;
     width: 80%;
-    height: 300vh;
-    /* background: rgb(0, 255, 4); */
+    height: 800vh;
     padding: 10px;
 
     .eleb1 {
@@ -107,7 +106,7 @@ body {
         text-align: center;
         width: 100%;
         height: 45vh;
-        background: #ffffff;
+        background: #f3f3f3;
         display: grid;
         grid: 200px/auto auto auto auto auto auto;
         padding: 20px;
@@ -171,9 +170,18 @@ body {
 
     .eleb3 {
         width: 100%;
-        height: 50vh;
+        height: 60vh;
         background: #bcbabaa8;
         padding: 20px;
+
+        .cc4 {
+            width: 70px;
+            height: 70px;
+            background: #ffffff5d;
+            border-radius: 50%;
+
+            margin: auto;
+        }
 
         .elebc1 {
             color: #ffffff;
@@ -252,12 +260,94 @@ body {
                 font-size: 60px;
             }
         }
+
+    }
+
+    .eleb5 {
+        margin-top: 20px;
+        width: 100%;
+        height: 80vh;
+        display: grid;
+        gap: 20px;
+        grid: 250px/auto;
+
+        .bn1,
+        .bn2 {
+
+            height: 40vh;
+            display: grid;
+            gap: 20px;
+            grid: 250px/auto auto auto auto auto;
+            overflow-x: auto;
+            overflow-y: hidden;
+
+        }
+
+
+
+        .bq {
+            width: 20vw;
+            border-radius: 15px;
+            margin: 10px;
+            background: linear-gradient(#91f6eb, #f1dea6);
+            background-size: cover;
+            background-position: center;
+            padding: 10px;
+            display: flex;
+
+            .__ {
+                margin: auto;
+                width: 40%;
+                height: 80%;
+                border-radius: 15px;
+                background: #fbaaaa;
+            }
+
+            h5 {
+                font-size: 12px;
+            }
+
+            h6 {
+                font-size: 20px;
+                margin-bottom: 10px;
+            }
+
+            span {
+                h6 {
+                    font-size: 10px;
+                }
+
+                h5 {
+                    font-size: 16px;
+                    font-weight: 600;
+                }
+            }
+
+            .sf {
+                width: fit-content;
+                height: fit-content;
+                color: #ffffff;
+                padding: 0 5px;
+                background: #071c39;
+
+                h5 {
+                    font-size: 16px;
+                    font-weight: 500;
+                }
+
+                h6 {
+                    font-size: 16px;
+                    font-weight: 500;
+                }
+            }
+        }
+
     }
 }
 
 .ele3 {
     position: absolute;
-    top: 300vh;
+    top: 800vh;
     width: 100%;
 
     .cc8 {
@@ -404,4 +494,9 @@ body {
             transform: translateX(5px);
         }
     }
+}
+
+.bn2::-webkit-scrollbar,
+.bn1::-webkit-scrollbar {
+    background: transparent;
 }

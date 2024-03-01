@@ -32,7 +32,13 @@ export default function home() {
             <div className="mm">
 
                 <div className="lg-1"><div className="btn btn-primary">«</div></div>
-                <div className="bc"></div>
+                <div className="bc">
+                    <div className="bca1">
+
+                        <div className="_imag1 bca2"></div>
+                        <div className="_imag4 bca2"></div>
+                    </div>
+                </div>
                 <div className="lg-1"><div className="btn btn-primary">»</div></div>
             </div>
             <div className="cc4">
