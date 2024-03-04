@@ -681,5 +681,4 @@ export default function amazonmtv() {
             </div>
         </>
     )
-
 }
