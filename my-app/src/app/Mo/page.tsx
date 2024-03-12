@@ -527,6 +527,318 @@ export default function amazonmtv() {
                     </div>
 
                 </div>
+                <div className="eleb2">
+                    <div className="elebb1">
+                        <div className="bb">
+
+                            <h4>OnePlus 12R</h4>
+                            <h6>pristine display</h6>
+                            <h6>with aqua touch</h6>
+                        </div>
+                        <span>starting <sup>₹</sup>4,333/month*</span>
+
+                    </div>
+                    <div className="elebb1">     <div className="bb">
+
+                        <h4>OnePlus 12R</h4>
+                        <h6>pristine display</h6>
+                        <h6>with aqua touch</h6>
+                    </div>
+                        <span>starting <sup>₹</sup>4,333/month*</span>
+
+                    </div>
+                    <div className="elebb1">
+                        <div className="bb">
+
+                            <h4>OnePlus 12R</h4>
+                            <h6>pristine display</h6>
+                            <h6>with aqua touch</h6>
+                        </div>
+                        <span>starting <sup>₹</sup>4,333/month*</span>
+
+                    </div>
+                    <div className="elebb1">
+                        <div className="bb">
+
+                            <h4>OnePlus 12R</h4>
+                            <h6>pristine display</h6>
+                            <h6>with aqua touch</h6>
+                        </div>
+                        <span>starting <sup>₹</sup>4,333/month*</span>
+                    </div>
+                    <div className="elebb1">
+                        <div className="bb">
+
+                            <h4>OnePlus 12R</h4>
+                            <h6>pristine display</h6>
+                            <h6>with aqua touch</h6>
+                        </div>
+                        <span>starting <sup>₹</sup>4,333/month*</span>
+
+                    </div>
+                    <div className="elebb1">
+                        <div className="bb">
+
+                            <h4>OnePlus 12R</h4>
+                            <h6>pristine display</h6>
+                            <h6>with aqua touch</h6>
+                        </div>
+                        <span>starting <sup>₹</sup>4,333/month*</span>
+
+                    </div>
+                </div>
+                <div className="eleb2">
+                    <div className="elebb1">
+                        <div className="bb">
+
+                            <h4>OnePlus 12R</h4>
+                            <h6>pristine display</h6>
+                            <h6>with aqua touch</h6>
+                        </div>
+                        <span>starting <sup>₹</sup>4,333/month*</span>
+
+                    </div>
+                    <div className="elebb1">     <div className="bb">
+
+                        <h4>OnePlus 12R</h4>
+                        <h6>pristine display</h6>
+                        <h6>with aqua touch</h6>
+                    </div>
+                        <span>starting <sup>₹</sup>4,333/month*</span>
+
+                    </div>
+                    <div className="elebb1">
+                        <div className="bb">
+
+                            <h4>OnePlus 12R</h4>
+                            <h6>pristine display</h6>
+                            <h6>with aqua touch</h6>
+                        </div>
+                        <span>starting <sup>₹</sup>4,333/month*</span>
+
+                    </div>
+                    <div className="elebb1">
+                        <div className="bb">
+
+                            <h4>OnePlus 12R</h4>
+                            <h6>pristine display</h6>
+                            <h6>with aqua touch</h6>
+                        </div>
+                        <span>starting <sup>₹</sup>4,333/month*</span>
+                    </div>
+                    <div className="elebb1">
+                        <div className="bb">
+
+                            <h4>OnePlus 12R</h4>
+                            <h6>pristine display</h6>
+                            <h6>with aqua touch</h6>
+                        </div>
+                        <span>starting <sup>₹</sup>4,333/month*</span>
+
+                    </div>
+                    <div className="elebb1">
+                        <div className="bb">
+
+                            <h4>OnePlus 12R</h4>
+                            <h6>pristine display</h6>
+                            <h6>with aqua touch</h6>
+                        </div>
+                        <span>starting <sup>₹</sup>4,333/month*</span>
+
+                    </div>
+                </div>
+                <div className="eleb5">
+                    <div className="bn1">
+                        <div className="bq1 bq">
+                            <div className="_">
+                                <h6>oneplus</h6>
+                                <h6>12r</h6>
+                                <span>
+                                    <h6><sup>₹</sup>39,999</h6>
+                                    <div className="sf">
+                                        <h5>effective price</h5>
+                                        <h6><sup>₹</sup>38,999*</h6>
+                                    </div>
+                                </span>
+                                <h5>5500mAh battery</h5>
+                                <h5>snapdragon 8</h5>
+                                <h5>Gen 2 processor</h5>
+                            </div>
+                            <div className="__"></div>
+                        </div>
+                        <div className="bq2 bq">
+                            <div className="_">
+                                <h6>oneplus</h6>
+                                <h6>12r</h6>
+                                <span>
+                                    <h6><sup>₹</sup>39,999</h6>
+                                    <div className="sf">
+                                        <h5>effective price</h5>
+                                        <h6><sup>₹</sup>38,999*</h6>
+                                    </div>
+                                </span>
+                                <h5>5500mAh battery</h5>
+                                <h5>snapdragon 8</h5>
+                                <h5>Gen 2 processor</h5>
+                            </div>
+                            <div className="__"></div>
+                        </div>
+                        <div className="bq3 bq">
+                            <div className="_">
+                                <h6>oneplus</h6>
+                                <h6>12r</h6>
+                                <span>
+                                    <h6><sup>₹</sup>39,999</h6>
+                                    <div className="sf">
+                                        <h5>effective price</h5>
+                                        <h6><sup>₹</sup>38,999*</h6>
+                                    </div>
+                                </span>
+                                <h5>5500mAh battery</h5>
+                                <h5>snapdragon 8</h5>
+                                <h5>Gen 2 processor</h5>
+                            </div>
+                            <div className="__"></div>
+                        </div>
+                        <div className="bq4 bq">
+                            <div className="_">
+                                <h6>oneplus</h6>
+                                <h6>12r</h6>
+                                <span>
+                                    <h6><sup>₹</sup>39,999</h6>
+                                    <div className="sf">
+                                        <h5>effective price</h5>
+                                        <h6><sup>₹</sup>38,999*</h6>
+                                    </div>
+                                </span>
+                                <h5>5500mAh battery</h5>
+                                <h5>snapdragon 8</h5>
+                                <h5>Gen 2 processor</h5>
+                            </div>
+                            <div className="__"></div>
+                        </div>
+                        <div className="bq5 bq">
+                            <div className="_">
+                                <h6>oneplus</h6>
+                                <h6>12r</h6>
+                                <span>
+                                    <h6><sup>₹</sup>39,999</h6>
+                                    <div className="sf">
+                                        <h5>effective price</h5>
+                                        <h6><sup>₹</sup>38,999*</h6>
+                                    </div>
+                                </span>
+                                <h5>5500mAh battery</h5>
+                                <h5>snapdragon 8</h5>
+                                <h5>Gen 2 processor</h5>
+                            </div>
+                            <div className="__"></div>
+                        </div>
+                    </div>
+                    <div className="bn2">
+                        <div className="bq6 bq">
+                            <div className="_">
+                                <h6>oneplus</h6>
+                                <h6>12r</h6>
+                                <span>
+                                    <h6><sup>₹</sup>39,999</h6>
+                                    <div className="sf">
+                                        <h5>effective price</h5>
+                                        <h6><sup>₹</sup>38,999*</h6>
+                                    </div>
+                                </span>
+                                <h5>5500mAh battery</h5>
+                                <h5>snapdragon 8</h5>
+                                <h5>Gen 2 processor</h5>
+                            </div>
+                            <div className="__"></div>
+                        </div>
+                        <div className="bq7 bq">
+                            <div className="_">
+                                <h6>oneplus</h6>
+                                <h6>12r</h6>
+                                <span>
+                                    <h6><sup>₹</sup>39,999</h6>
+                                    <div className="sf">
+                                        <h5>effective price</h5>
+                                        <h6><sup>₹</sup>38,999*</h6>
+                                    </div>
+                                </span>
+                                <h5>5500mAh battery</h5>
+                                <h5>snapdragon 8</h5>
+                                <h5>Gen 2 processor</h5>
+                            </div>
+                            <div className="__"></div>
+                        </div>
+                        <div className="bq8 bq">
+                            <div className="_">
+                                <h6>oneplus</h6>
+                                <h6>12r</h6>
+                                <span>
+                                    <h6><sup>₹</sup>39,999</h6>
+                                    <div className="sf">
+                                        <h5>effective price</h5>
+                                        <h6><sup>₹</sup>38,999*</h6>
+                                    </div>
+                                </span>
+                                <h5>5500mAh battery</h5>
+                                <h5>snapdragon 8</h5>
+                                <h5>Gen 2 processor</h5>
+                            </div>
+                            <div className="__"></div>
+                        </div>
+                        <div className="bq9 bq">
+                            <div className="_">
+                                <h6>oneplus</h6>
+                                <h6>12r</h6>
+                                <span>
+                                    <h6><sup>₹</sup>39,999</h6>
+                                    <div className="sf">
+                                        <h5>effective price</h5>
+                                        <h6><sup>₹</sup>38,999*</h6>
+                                    </div>
+                                </span>
+                                <h5>5500mAh battery</h5>
+                                <h5>snapdragon 8</h5>
+                                <h5>Gen 2 processor</h5>
+                            </div>
+                            <div className="__"></div>
+                        </div>
+                        <div className="bq10 bq">
+                            <div className="_">
+                                <h6>oneplus</h6>
+                                <h6>12r</h6>
+                                <span>
+                                    <h6><sup>₹</sup>39,999</h6>
+                                    <div className="sf">
+                                        <h5>effective price</h5>
+                                        <h6><sup>₹</sup>38,999*</h6>
+                                    </div>
+                                </span>
+                                <h5>5500mAh battery</h5>
+                                <h5>snapdragon 8</h5>
+                                <h5>Gen 2 processor</h5>
+                            </div>
+                            <div className="__"></div>
+                        </div>
+                    </div>
+
+                </div>
+                <div className="eleb4 bt">
+                    <div className="elebd1">
+                        <div className="bd1">
+                            <h4>citi</h4>
+                        </div>
+                        <div className="bd2">
+                            <h5>10% instant discount*</h5>
+                            <h6>on Credit/Debit Cards & Credit EMI</h6>
+                        </div>
+                    </div>
+                    <div className="elebd3"></div>
+                    <div className="elebd2">
+                        <h6>This product is issued by Axis Bank. using certain tradernarks  temporarily under license from Citiyoto  lnc. and related group entities.</h6>
+                    </div>
+                </div>
             </div>
             <div className="ele3">
                 <div className="cc8">
